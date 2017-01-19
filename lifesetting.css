@@ -1,0 +1,15 @@
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #0f0f0f;
+  color: #9d9d9d;
+  text-align: center;
+}
+.pan
+{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
